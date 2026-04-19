@@ -139,6 +139,11 @@ The system operates in stages:
 
 ---
 
+## Live Demo Video
+https://drive.google.com/file/d/1ahSTD4-SEh3nba5NuTJ95Jg_tVaRBi5V/view?usp=sharing
+
+---
+
 ## Example Serial Output
 
 ```text
